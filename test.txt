@@ -1,2 +1,6 @@
 lets pull this file karke
+<<<<<<< HEAD
 merge conflict
+=======
+lets see merge conflict
+>>>>>>> c2abd66f9f53df1128190b4a80194c2c09b6b9e8
